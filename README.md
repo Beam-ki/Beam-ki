@@ -6,4 +6,6 @@
 
   
   
-  <img src="https://img.shields.io/badge/codepen-#EF4223?style=flat&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/codeigniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php-#777BB4?style=flat-square&logo=php&logoColor=white"/>
+
